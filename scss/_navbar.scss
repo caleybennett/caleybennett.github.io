@@ -18,10 +18,10 @@
         padding: 0.75rem 0;
         &:hover,
         &:active {
-          color: $info;
+          color: $primary;
         }
         &.active {
-          color: $info !important;
+          color: $primary !important;
         }
       }
     }
@@ -59,7 +59,7 @@
       .navbar-brand {
         color: $gray-900;
         &:hover {
-          color: $info;
+          color: $primary;
         }
       }
       .navbar-nav {
@@ -67,7 +67,7 @@
           .nav-link {
             color: $gray-900;
             &:hover {
-              color: $info;
+              color: $primary;
             }
           }
         }
