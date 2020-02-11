@@ -9659,7 +9659,7 @@ hr.light {
 header.masthead {
   padding-top: 20rem;
   padding-bottom: 72px;
-  background: url("../img/caleyb.jpg");
+  background: url("../img/backgroundimg3.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -9735,4 +9735,11 @@ header.masthead h1 {
 .card {
   border-color: #4e6274;
   margin: 15px
+}
+
+.headshot {
+    border: 3px solid white;
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
 }
